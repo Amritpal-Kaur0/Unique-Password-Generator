@@ -27,7 +27,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ##Link of deployed Application 
--   https://amrit1-kaur.github.io/Unique-Password-Generator/
+-  https://amritpal-kaur0.github.io/Unique-Password-Generator/
 
 
 ##Screenshot of  deployed Application-
