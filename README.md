@@ -26,10 +26,12 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-##Link of deployed Application 
+## Link of deployed Application 
 -  https://amritpal-kaur0.github.io/Unique-Password-Generator/
 
+## Support
+If you encounter any issues or have questions, please open an issue in the GitHub repository or contact me at amrit.gill3005@gmail.com
 
-##Screenshot of  deployed Application-
+## Screenshot of  deployed Application-
 
 ![2023-03-18 (1)](https://user-images.githubusercontent.com/125145657/226109154-45f4f2f6-ed49-4e2b-aa10-871545dd0b04.png)
